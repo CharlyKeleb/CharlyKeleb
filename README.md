@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-Charles042&color=red" alt="Charles042" /> </p> 
+
 
 ### Conect with me:
 
