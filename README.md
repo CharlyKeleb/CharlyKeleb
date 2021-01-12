@@ -22,14 +22,14 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Charles042&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+   <img src="https://github-readme-stats.vercel.app/api?username=Charles042&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 
 
 
 <p align='center'>
-  <a href="https://stackoverflow.com/users/10835183/chizaram-succes">
-  <img src="https://img.shields.io/stackexchange/stackoverflow/r/10835183?style=for-the-badge" />
+  <a href="https://stackoverflow.com/users/12473792/chizaram-success">
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/12473792?style=for-the-badge" />
 </a>&nbsp;&nbsp;
 </p>
 
