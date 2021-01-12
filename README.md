@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
   -->
+  
+<a href="https://instagram.com/charlykeleb.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="charlykeleb.dev"/></a> 
 <a href="mailto:charlyykeleb@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -27,13 +29,13 @@
 
 
 
-<p align='center'>
+<!--<p align='center'>
   <a href="https://stackoverflow.com/users/12473792/chizaram-success">
-  <img src="https://img.shields.io/stackexchange/stackoverflow/r/12473792?style=for-the-badge" />
+  <img src="https://img.shields.io/stackexchange/stackoverow/r/12473792?style=for-the-badgefl" />
 </a>&nbsp;&nbsp;
 </p>
 
-
+-->
 
 <!--
 </p>
