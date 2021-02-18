@@ -14,6 +14,7 @@
 <a href="http://wa.me/22964028463?text=Hello Charly Keleb">
   <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
+<p align='center'><a href="https://stackoverflow.com/users/12473792/chizaram-succes?tab=profile" target="blank"><img align="center" src="https://img.shields.io/badge/StackOverflow%20-%23323330.svg?&style=for-the-badge&logo=StackOverflow&logoColor=orange" alt="chizaram-success"/></a> </p>
 <img src="https://gpvc.arturio.dev/Charles042" />
 </p>
 
@@ -31,9 +32,8 @@
 </p>
 -->
 
-<p align='center'>
-  <a href="https://stackoverflow.com/users/12473792/chizaram-succes?tab=profile" target="blank"><img align="center" src="https://img.shields.io/badge/StackOverflow%20-%23323330.svg?&style=for-the-badge&logo=StackOverflow&logoColor=orange" alt="chizaram-success"/></a> 
-</p>
+
+
 
 <!--
 </p>
