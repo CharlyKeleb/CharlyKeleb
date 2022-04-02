@@ -10,12 +10,14 @@
   <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="charlykeleb.dev"/></a> 
 <a href="mailto:charlyykeleb@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+ <a href="https://www.linkedin.com/in/success-charles-1660a01bb/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="http://wa.me/22964028463?text=Hello Charly Keleb">
   <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 <!-- <a href="https://stackoverflow.com/users/12473792/chizaram-succes?tab=profile" target="blank"><img align="top" src="https://img.shields.io/badge/StackOverflow%20-%23323330.svg?&style=for-the-badge&logo=StackOverflow&logoColor=orange" alt="chizaram-success"/></a> -->
-<img src="https://gpvc.arturio.dev/Charles042" />
+<img src="https://gpvc.arturio.dev/CharlyKeleb" />
 </p>
 
 
